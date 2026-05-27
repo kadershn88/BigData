@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="409da82b-ac58-4d6b-8df3-b22485b5e253" name="Changes" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/week4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BigData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BigData.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="409da82b-ac58-4d6b-8df3-b22485b5e253" name="Changes" comment="Week4Assignment Updated">
+      <change afterPath="$PROJECT_DIR$/week11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,17 +43,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.week4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.week4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sulai/PycharmProjects/BigData",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sulai\PycharmProjects\BigData" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="week4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BigData" />
@@ -140,13 +144,48 @@
       <option name="project" value="LOCAL" />
       <updated>1775866152645</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="WeekAssignment">
+      <option name="closed" value="true" />
+      <created>1775872832572</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775872832572</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Week4Assignment Updated">
+      <option name="closed" value="true" />
+      <created>1775873406927</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775873406927</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Week4Assignment Initial">
+      <option name="closed" value="true" />
+      <created>1775875467354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1775875467354</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Week4Assignment Updated">
+      <option name="closed" value="true" />
+      <created>1775875833829</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1775875833829</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+    <MESSAGE value="WeekAssignment" />
+    <MESSAGE value="Week4Assignment Initial" />
+    <MESSAGE value="Week4Assignment Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week4Assignment Updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
