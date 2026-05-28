@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="409da82b-ac58-4d6b-8df3-b22485b5e253" name="Changes" comment="Week4Assignment Updated">
-      <change afterPath="$PROJECT_DIR$/week11.py" afterDir="false" />
+    <list default="true" id="409da82b-ac58-4d6b-8df3-b22485b5e253" name="Changes" comment="Week11 - Capstone">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775875833829</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Week11 - Capstone">
+      <option name="closed" value="true" />
+      <created>1779923340746</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1779923340746</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Week11 - Capstone">
+      <option name="closed" value="true" />
+      <created>1779923486092</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1779923486092</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,7 +200,8 @@
     <MESSAGE value="WeekAssignment" />
     <MESSAGE value="Week4Assignment Initial" />
     <MESSAGE value="Week4Assignment Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week4Assignment Updated" />
+    <MESSAGE value="Week11 - Capstone" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week11 - Capstone" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
